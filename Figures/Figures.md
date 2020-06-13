@@ -1,1 +1,1 @@
-![plot](Figure/Heat_K=20_R=1_w=05_theta=0.eps)
+![K=10_R=1_w=0_theta=0](Figures/Heat_K=10_R=1_w=0_theta=0.png)
