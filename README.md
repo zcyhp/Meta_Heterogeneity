@@ -12,4 +12,6 @@ All simulation results are stored in excel files with each file for one <img src
   
   * We use the combination of parameters <img src="https://latex.codecogs.com/gif.latex?\{K=20,&space;R=1,&space;\theta=0,&space;w=0\}" title="\{K=20, R=1, \theta=0, w=0\}" /> as the reference setting and generated rest figures by changing one parameter at a time. 
 ## R code
-To implement the R code, the file `LOR_moments_final.txt` needs to be sourced.
+To implement the R code: 
+  * R version 3.6.3 or above is needed.
+  * The file `LOR_moments_final.txt` needs to be sourced.
