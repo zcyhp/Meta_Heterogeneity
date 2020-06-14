@@ -3,7 +3,7 @@ This repository contains simulation results and R code for the paper "A Comparis
 ## All simulation results
 All simulation results are stored in excel files with each file for one <img src="https://latex.codecogs.com/gif.latex?\tau^2" title="\tau^2" /> setting in {0,0.1,...,1}
 ## Figures
-  * Each figure contains 4 heat maps showing adjusted power values for each test under the following 4 settings:
+  * Each figure contains 4 heat maps showing adjusted power values for all the tests under the following 4 corresponding settings:
   
     * <img src="https://latex.codecogs.com/gif.latex?\mu=-2.5\text{,&space;large-sample}" title="\mu=-2.5\text{, large-sample}" />
     * <img src="https://latex.codecogs.com/gif.latex?\mu=-5\text{,&space;large-sample}" title="\mu=-5\text{, large-sample}" />
