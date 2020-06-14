@@ -1,7 +1,7 @@
 # Meta_Heterogeneity
 This repository contains simulation results and R code for the paper "A Comparison of Hypothesis Tests for Homogeneity in Meta-analysis with Focus on Rare Binary Events".
 ## All simulation results
-All simulation results are stored in excel files with each file for one <img src="https://latex.codecogs.com/gif.latex?\tau^2" title="\tau^2" /> setting in {0, 0.1,..., 1}
+All simulation results are stored in excel files with each file for one <img src="https://latex.codecogs.com/gif.latex?\tau^2" title="\tau^2" /> setting in {0, 0.1,..., 1}. In each excel file, results for K=10, 20, 50 are stored in 3 seperate sheets.
 ## Figures
   * Each figure contains 4 heat maps showing adjusted power values for all the tests under the following 4 corresponding settings:
   
